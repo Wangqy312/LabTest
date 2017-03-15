@@ -1,2 +1,4 @@
 # LabTest
-15:08 my time1
+15:03 First test.
+15:04 Second test.
+
